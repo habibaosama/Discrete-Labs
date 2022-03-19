@@ -1,6 +1,16 @@
 # Discrete-Labs
 Including set implementation and some number theory
 
+
+
+Set implemented methods:
+
+* intersection
+* union
+* complement
+            
+
+
 Numbertheory:
 
 *sieve of Eratosthenes algorithm
